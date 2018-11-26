@@ -9,7 +9,7 @@ int main()
 {	string s;
 	cin>>s;
 	
-	//s="/home/anant/Desktop/change.txt";
+	//s="/home/jitu/Desktop/change.txt";
 	//FILE *f = fopen(s.c_str(), "r");
   	//fseek(f, 0, SEEK_END);
   	//printf("%ld\n", ftell(f));
